@@ -1,0 +1,10 @@
+{
+  "name": "bunker-economy-online",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Онлайн-кімнати БУНКЕР: ЕКОНОМІКА — без сторонніх npm-залежностей",
+  "type": "commonjs",
+  "engines": {"node": ">=20"},
+  "scripts": {"start": "node server.js", "test": "node --test test/*.test.js"},
+  "license": "UNLICENSED"
+}
